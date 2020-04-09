@@ -1,16 +1,16 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      jdecent                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Jekyll Decent"                               # used to display author name
+  initial:      charllossDev                                  # used for author lookup in posts and for first two characters in the about page back button
+  name:         "JoongKeun Lee"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
-  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
-  location:     Germany                                       # OPTIONAL: used to display location of the author
-  website:                          						  # OPTIONAL: link to the author of a post
-  email:                                                      # OPTIONAL: used in the about page
+  bio:          All about technology                          # OPTIONAL: text below author name in posts
+  location:     Korea                                         # OPTIONAL: used to display location of the author
+  website:                          						              # OPTIONAL: link to the author of a post
+  email:        "charlloss.dev@gmail.com"                     # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
-  github:                                                     # OPTIONAL: used in the about page
+  github:       "/charllossDev"                               # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
@@ -23,6 +23,15 @@ default:                                                      # Fallback if noth
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
+charllossDev:
+  initial:      charllossDev                                  
+  name:         "JoongKeun Lee"                               
+  cover:        /assets/mountain-alternative-cover.jpg        
+  picture:      /assets/johndoe.jpg                           
+  bio:          All about technology                          
+  location:     Korea                                         
+  email:        "charlloss.dev@gmail.com"                     
+  github:       "charllossDev"                                
 jdecent:
   initial:      jdecent
   name:         "Jekyll Decent"       
