@@ -22,7 +22,6 @@ https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 ![](/assets/algorithm/Compare-The-Triplets-94405df5.png)
 
-
 # Input Format
 ![](/assets/algorithm/Compare-The-Triplets-47c7fc7d.png)
 
