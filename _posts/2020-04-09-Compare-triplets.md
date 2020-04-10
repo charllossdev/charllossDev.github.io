@@ -20,16 +20,16 @@ math:			   false
 # Compare the Triplets
 https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
-![](../assets/algorithm/Compare-The-Triplets-94405df5.png)
+![](/assets/algorithm/Compare-The-Triplets-94405df5.png)
 
 
 # Input Format
-![](../assets/algorithm/Compare-The-Triplets-47c7fc7d.png)
+![](/assets/algorithm/Compare-The-Triplets-47c7fc7d.png)
 
-![](../assets/algorithm/Compare-The-Triplets-b3184479.png)
+![](/assets/algorithm/Compare-The-Triplets-b3184479.png)
 
 # Output Result
-![](../assets/algorithm/Compare-The-Triplets-c7b5f1d4.png)
+![](/assets/algorithm/Compare-The-Triplets-c7b5f1d4.png)
 
 
 # Dev Code
