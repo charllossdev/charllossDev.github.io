@@ -31,7 +31,7 @@ Observe that its base and height are both equal to $n$, and the image is drawn u
 
 Write a program that prints a staircase of size  $n$.
 
-![](assets/2020-04-10-staircase-d1a07013.png)
+![](/assets/algorithm/2020-04-10-staircase-d1a07013.png)
 
 # Input
 ```
