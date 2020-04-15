@@ -2,7 +2,7 @@ default:                                                      # Fallback if noth
   initial:      charllossDev                                  # used for author lookup in posts and for first two characters in the about page back button
   name:         "JoongKeun Lee"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
+  picture:      /assets/about-me.png                           # OPTIONAL: author picture
   bio:          All about technology                          # OPTIONAL: text below author name in posts
   location:     Korea                                         # OPTIONAL: used to display location of the author
   website:                          						              # OPTIONAL: link to the author of a post
@@ -24,30 +24,30 @@ default:                                                      # Fallback if noth
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
 charllossDev:
-  initial:      charllossDev                                  
-  name:         "JoongKeun Lee"                               
-  cover:        /assets/mountain-alternative-cover.jpg        
-  picture:      /assets/johndoe.jpg                           
-  bio:          All about technology                          
-  location:     Korea                                         
-  email:        "charlloss.dev@gmail.com"                     
-  github:       "charllossDev"                                
+  initial:      charllossDev
+  name:         "JoongKeun Lee"
+  cover:        /assets/mountain-alternative-cover.jpg
+  picture:      /assets/about-me.jpg
+  bio:          All about technology
+  location:     Korea
+  email:        "charlloss.dev@gmail.com"
+  github:       "charllossDev"
 jdecent:
   initial:      jdecent
-  name:         "Jekyll Decent"       
-  cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/johndoe.jpg  
+  name:         "Jekyll Decent"
+  cover:        /assets/mountain-alternative-cover.jpg
+  picture:      /assets/johndoe.jpg
   bio:          This is my bio!
   location:     Germany
-  email:        "-"   
-  twitter:      "-"    
+  email:        "-"
+  twitter:      "-"
   twitch:       "-"
 jwillmer:
   initial:      jwillmer
-  name:         "Jens Willmer"        
-  picture:      /assets/jwillmer.jpg  
-  bio:          All about technology 
-  location:     Germany 
-  website:      "http://jwillmer.de/cv" 
+  name:         "Jens Willmer"
+  picture:      /assets/jwillmer.jpg
+  bio:          All about technology
+  location:     Germany
+  website:      "http://jwillmer.de/cv"
   twitter:      jenswillmer
   github:       jwillmer
