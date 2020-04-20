@@ -2,7 +2,7 @@
 layout:            post
 title:             "Conditional Statements: If-else"
 menutitle:         "Conditional Statements: If-else"
-date:              2020-04-17 18:00:00 +0900
+date:              2020-04-20 13:00:00 +0900
 tags:              Javascript HackerRank
 category:          Javascript
 author:            charllossDev

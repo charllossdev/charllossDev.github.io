@@ -2,7 +2,7 @@
 layout:            post
 title:             "Conditional Statement Swithch"
 menutitle:         "Conditional Statement Swithch"
-date:              2020-04-17 18:00:00 +0900
+date:              2020-04-20 15:30:00 +0900
 tags:              Javascript HackerRank
 category:          Javascript
 author:            charllossDev
