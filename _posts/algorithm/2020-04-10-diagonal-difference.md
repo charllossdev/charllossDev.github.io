@@ -19,7 +19,7 @@ math:			   false
 # Diagonal Difference
 https://www.hackerrank.com/challenges/diagonal-difference/problem
 
-![](/assets/algorithm/2020-04-10-diagonal-difference-e904f3e2.png)
+![](assets/2020-04-10-diagonal-difference-e904f3e2.png)
 
 # Input
 ```

@@ -19,15 +19,15 @@ math:			   false
 # Very Big Sum
 https://www.hackerrank.com/challenges/a-very-big-sum/problem
 
-![](/assets/algorithm/02.Very-Big-Sum-3e6b2f19.png)
+![](assets/02.Very-Big-Sum-3e6b2f19.png)
 
 # Input Format
-![](/assets/algorithm/02.Very-Big-Sum-bd6b1455.png)
+![](assets/02.Very-Big-Sum-bd6b1455.png)
 
 # Output
-![](/assets/algorithm/02.Very-Big-Sum-15d5cbc9.png)
+![](assets/02.Very-Big-Sum-15d5cbc9.png)
 
-![](/assets/algorithm/02.Very-Big-Sum-fd383351.png)
+![](assets/02.Very-Big-Sum-fd383351.png)
 
 
 # Code
