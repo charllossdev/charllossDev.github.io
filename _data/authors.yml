@@ -26,7 +26,7 @@ default:                                                      # Fallback if noth
 charllossDev:
   initial:      charllossDev
   name:         "JoongKeun Lee"
-  cover:        /assets/background/Artist-Point,-Deming,-Uni-5120x2880.jpg
+  cover:        /assets/background/Eismeer+Station-5120x2880.jpg
   picture:      /assets/about-me.png
   bio:          All about technology
   location:     Korea
