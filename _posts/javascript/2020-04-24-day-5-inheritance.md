@@ -1,3 +1,20 @@
+---
+layout:            post
+title:             "Inheritance"
+menutitle:         "Inheritance"
+date:              2020-04-24 13:30:00 +0900
+tags:              Javascript HackerRank
+category:          Javascript
+author:            charllossDev
+cover:             /assets/mountain-alternative-cover.jpg
+published:         true
+redirect_from:     "/Inheritance-Redirect/"
+cover:             /assets/mountain-alternative-cover.jpg
+language:          EN
+comments:          true
+math:			   false
+---
+
 # Inheritance
 In this challenge, we practive implementing inheritance and use Javascript prototypes to add a new method to an existing prototype.
 Check out the attached Classes tutorial to refresh what we've learned about these topics.

@@ -1,3 +1,20 @@
+---
+layout:            post
+title:             "Arrow Functions"
+menutitle:         "Arrow Functions"
+date:              2020-04-24 11:30:00 +0900
+tags:              Javascript HackerRank
+category:          Javascript
+author:            charllossDev
+cover:             /assets/mountain-alternative-cover.jpg
+published:         true
+redirect_from:     "/Arrow-Functions-Redirect/"
+cover:             /assets/mountain-alternative-cover.jpg
+language:          EN
+comments:          true
+math:			   false
+---
+
 # Arrow Functions
 
 ### Task
