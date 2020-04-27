@@ -2,7 +2,7 @@
 layout:            post
 title:             "Euclidean algorithm"
 menutitle:         "Euclidean algorithm"
-date:              2020-04-27 17:00:00 +0900
+date:              2020-04-27 17:30:00 +0900
 tags:              Algorithm HackerRank 유클리드 유클리드알고리즘
 category:          Algorithm
 author:            charllossDev
