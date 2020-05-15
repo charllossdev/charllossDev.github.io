@@ -1,3 +1,20 @@
+---
+layout:            post
+title:             "Bitwise Operators"
+menutitle:         "Bitwise Operators"
+date:              2020-05-07 13:30:00 +0900
+tags:              Javascript HackerRank
+category:          Javascript
+author:            charllossDev
+cover:             /assets/mountain-alternative-cover.jpg
+published:         true
+redirect_from:     "/Bitwise-Operators-Redirect/"
+cover:             /assets/mountain-alternative-cover.jpg
+language:          EN
+comments:          true
+math:			   false
+---
+
 # Bitwise Operators
 
 We define $S$ to be a sequence of distinct sequential integers from $1$ to $n$; in other words, $S=(1,2,3,4,5...,n)$. We want to know the maximum bitwise AND value of any two integers, $a$ and $b$ (where $a<b$ ), in sequence $S$ that is also less than a given integer, $k$.

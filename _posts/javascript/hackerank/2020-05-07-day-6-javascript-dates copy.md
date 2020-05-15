@@ -1,3 +1,20 @@
+---
+layout:            post
+title:             "Javascript Dates"
+menutitle:         "Javascript Dates"
+date:              2020-05-07 13:30:00 +0900
+tags:              Javascript HackerRank
+category:          Javascript
+author:            charllossDev
+cover:             /assets/mountain-alternative-cover.jpg
+published:         true
+redirect_from:     "/Javascript-Dates-Redirect/"
+cover:             /assets/mountain-alternative-cover.jpg
+language:          EN
+comments:          true
+math:			   false
+---
+
 # Javascript Dates
 
 Given a date string, $dataString$, in the format MM/DD/YYYY, find and return the day name for that date. Each day name must be one of the following strings: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, or Saturday. For example, the day name for the date 12/07/2016 is Wednesday.
