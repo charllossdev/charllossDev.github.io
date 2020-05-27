@@ -2,7 +2,7 @@
 layout:            post
 title:             "Create Css in Javascript"
 menutitle:         "Create Css in Javascript"
-date:              2020-05-07 13:30:00 +0900
+date:              2020-05-13 13:30:00 +0900
 tags:              Javascript HackerRank
 category:          Javascript
 author:            charllossDev
