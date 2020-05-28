@@ -1,9 +1,9 @@
 ---
 layout:            post
-title:             "Node.js basic"
-menutitle:         "Node.js basic"
+title:             "Basic Node.js"
+menutitle:         "Basic Node.js"
 date:              2020-04-21 14:00:00 +0900
-tags:              Node.js Node
+tags:              Node.js
 category:          Node
 author:            charllossDev
 cover:             /assets/mountain-alternative-cover.jpg
