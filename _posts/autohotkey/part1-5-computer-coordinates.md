@@ -1,3 +1,21 @@
+---
+layout:            post
+title:             "Pc X-Y Coordinates"
+menutitle:         "Pc X-Y Coordinates"
+date:              2020-05-23 14:30:00 +0900
+tags:              Autohotkey Hotkey Coordinates
+category:          Autohotkey
+author:            charllossDev
+cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
+published:         true
+redirect_from:     "/AutoHotKey-Pc-Coordinates-Redirect/"
+cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
+language:          EN
+comments:          true
+math:			   false
+---
+
+
 # Pc X-Y Coordinates
 $활성 창$ 개념은 사용중인 컴퓨터와 사용자 간의 상화작용할 수 있는 상태를 나타내며, 작업표시줄 아이콘으 ㅣ배경색으로 알 수 있다.
 

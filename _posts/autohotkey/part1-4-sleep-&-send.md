@@ -2,9 +2,9 @@
 layout:            post
 title:             "Sleep & Send"
 menutitle:         "Sleep & Send"
-date:              2020-05-25 14:30:00 +0900
-tags:              autohotkey Sleep Send
-category:          autohotkey
+date:              2020-05-23 14:30:00 +0900
+tags:              Autohotkey Hotkey HotString
+category:          Autohotkey
 author:            charllossDev
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true
@@ -12,7 +12,7 @@ redirect_from:     "/AutoHotKey-Sleep-Send-Redirect/"
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
 language:          EN
 comments:          true
-math:			   false
+math:			         false
 ---
 
 

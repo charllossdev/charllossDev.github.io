@@ -3,8 +3,8 @@ layout:            post
 title:             "Variable & Operator"
 menutitle:         "Variable"
 date:              2020-05-20 15:30:00 +0900
-tags:              autohotkey Variable Operator
-category:          autohotkey
+tags:              Autohotkey Variable Operator
+category:          Autohotkey
 author:            charllossDev
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true

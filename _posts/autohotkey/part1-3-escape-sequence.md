@@ -3,8 +3,8 @@ layout:            post
 title:             "Escape Sequence"
 menutitle:         "Escape Sequence"
 date:              2020-05-23 15:30:00 +0900
-tags:              autohotkey Escape Sequence
-category:          autohotkey
+tags:              Autohotkey Escape Sequence
+category:          Autohotkey
 author:            charllossDev
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true

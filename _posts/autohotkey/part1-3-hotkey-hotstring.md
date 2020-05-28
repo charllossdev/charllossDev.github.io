@@ -3,8 +3,8 @@ layout:            post
 title:             "Hotkey & HotString"
 menutitle:         "Hotkey & HotString"
 date:              2020-05-23 14:30:00 +0900
-tags:              autohotkey Hotkey HotString
-category:          autohotkey
+tags:              Autohotkey Hotkey HotString
+category:          Autohotkey
 author:            charllossDev
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true
