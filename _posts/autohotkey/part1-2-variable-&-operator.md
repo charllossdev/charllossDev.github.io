@@ -15,6 +15,8 @@ comments:          true
 math:			         false
 ---
 
+
+
 # Variable & Operator
 ### Variable
 변수는 사전적 의미로는 바뀔 수 있는 수입니다.
