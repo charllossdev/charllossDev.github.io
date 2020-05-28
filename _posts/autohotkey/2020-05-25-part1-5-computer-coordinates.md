@@ -2,7 +2,7 @@
 layout:            post
 title:             "Pc X-Y Coordinates"
 menutitle:         "Pc X-Y Coordinates"
-date:              2020-05-23 14:30:00 +0900
+date:              2020-05-25 14:30:00 +0900
 tags:              Autohotkey Hotkey Coordinates
 category:          Autohotkey
 author:            charllossDev
