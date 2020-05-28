@@ -12,7 +12,7 @@ redirect_from:     "/Node-Basic-Redirect/"
 cover:             /assets/mountain-alternative-cover.jpg
 language:          EN
 comments:          true
-math:			   false
+math:			         false
 ---
 
 ![](assets/node-7a0b8179.png)
