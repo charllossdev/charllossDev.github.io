@@ -4,7 +4,7 @@ title:             "Binary Calculator"
 menutitle:         "Binary Calculator"
 date:              2020-05-15 13:30:00 +0900
 tags:              Javascript HackerRank
-category:          Javascript
+category:          Node
 author:            charllossDev
 cover:             /assets/mountain-alternative-cover.jpg
 published:         true
