@@ -22,7 +22,7 @@ We want to create nine buttons enclosed in a div, laid out so they form a  grid.
 
 Complete the code in the editor so that it satisfies the following criteria:
 * Initial State. The initial layout looks like this:
-![](assets/2020-05-14-day-8-buttons-containver-3d3156b1.png)
+![](./assets/2020-05-14-day-8-buttons-containver-3d3156b1.png)
 
 * Element IDs. Each element in the document must have an id, specified below:
 
@@ -54,14 +54,14 @@ Complete the code in the editor so that it satisfies the following criteria:
 
 Initially, the buttons look like this:
 
-![](assets/2020-05-14-day-8-buttons-containver-3d3156b1.png)
+![](./assets/2020-05-14-day-8-buttons-containver-3d3156b1.png)
 
 After clicking btn5  time, they look like this:click1
 
-![](assets/2020-05-14-day-8-buttons-containver-c381fd5c.png)
+![](./assets/2020-05-14-day-8-buttons-containver-c381fd5c.png)
 
 After clicking btn5  more time (for a total of  clicks), they look like this:click2
-![](assets/2020-05-14-day-8-buttons-containver-4b336e83.png)
+![](./assets/2020-05-14-day-8-buttons-containver-4b336e83.png)
 
 
 # Dev

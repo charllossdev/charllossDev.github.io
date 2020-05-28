@@ -6,7 +6,7 @@ date:              2020-05-23 14:30:00 +0900
 tags:              Autohotkey Hotkey HotString
 category:          Autohotkey
 author:            charllossDev
-cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
+cover:             /assets/background/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true
 redirect_from:     "/AutoHotKey-Sleep-Send-Redirect/"
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
@@ -77,7 +77,7 @@ Sleep, 1000
 ExitApp
 ```
 
-![](assets/part1-4-sleep-&-send-22b26628.png)
+![](./assets/part1-4-sleep-&-send-22b26628.png)
 
 
 ```autohotkey

@@ -6,8 +6,8 @@ date:              2020-05-23 15:30:00 +0900
 tags:              Autohotkey Escape Sequence
 category:          Autohotkey
 author:            charllossDev
-cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
-published:         true
+cover:             /assets/background/body-of-water-near-coconut-trees-5120x2880.jpg
+published:         true     
 redirect_from:     "/AutoHotKey-Escape-Sequence-Redirect/"
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
 language:          EN
@@ -19,7 +19,7 @@ math:			   false
 오토핫키에서는 매개변수의 구분을 `,`, 변수의 사용은 `%`를 사용한다.
 그렇다면 아래와 같이 해당 기호를 출력하려면 어떻게 해야 할까?
 
-![](assets/part1-3-escape-sequence-f7f56c34.png)
+![](./assets/part1-3-escape-sequence-f7f56c34.png)
 
 ```autohotkey
 MsgBox, ,% ;이렇게 코딩하면 에러가 날것이다.
@@ -42,7 +42,7 @@ MsgBox, `,%` ;특수 기능을 하는 예약어가 아닌, 문자로 취급되�
 ```autohotkey
 MsgBox, 안녕하세요 'n 저는 안종웅입니다.
 ```
-![](assets/part1-3-escape-sequence-328ffbfc.png)
+![](./assets/part1-3-escape-sequence-328ffbfc.png)
 
 이렇듯 `n은 개행을 의미한다.
 

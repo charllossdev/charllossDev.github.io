@@ -22,10 +22,10 @@ math:			         false
 Implement a simple calculator that performs the following operations on binary numbers: addition, subtraction, multiplication, and division. Note that division operation must be integer division only;
 
 The calculator's initial state must look like this:
-![](assets/2020-05-15-day-9-binary-calculator-063e0585.png)
+![](./assets/2020-05-15-day-9-binary-calculator-063e0585.png)
 
 * Element IDs. Each element in the document must have an id, specified below:
-![](assets/2020-05-15-day-9-binary-calculator-baea4941.png)
+![](./assets/2020-05-15-day-9-binary-calculator-baea4941.png)
 * Styling. The document's elements must have the following styles:
 
 * body has a width of 33%.

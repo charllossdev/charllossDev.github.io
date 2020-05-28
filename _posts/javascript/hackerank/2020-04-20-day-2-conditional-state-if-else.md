@@ -21,7 +21,7 @@ Task
 
 Complete the getGrade(score) function in the editor. It has one parameter: an integer, $score$, denoting the number of points Julia earned on an exam. It must return the letter corresponding to her $grade$ according to the following rules:
 
-![](assets/2020-04-20-day-2-conditional-state-if-else-cbc1d462.png)
+![](./assets/2020-04-20-day-2-conditional-state-if-else-cbc1d462.png)
 
 
 ## Input Format

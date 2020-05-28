@@ -6,7 +6,7 @@ date:              2020-05-23 16:30:00 +0900
 tags:              Autohotkey Escape Sequence
 category:          Autohotkey
 author:            charllossDev
-cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
+cover:             /assets/background/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true
 redirect_from:     "/AutoHotKey-ExitApp-Return-Redirect/"
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
@@ -19,7 +19,7 @@ math:			   false
 
 ### ExitApp
 핫키와 핫스트링을 사용했을 때, 사용을 중지하려면, 오토핫키를 강제로 중지해야 했다.
-![](assets/part1-3-exitapp-return-e3d7f4ab.png)
+![](./assets/part1-3-exitapp-return-e3d7f4ab.png)
 
 그 과정을 자동으로 해주는 명령어가 ExitApp로 매개변수는 없이 단일 명령어로 사용한다.
 

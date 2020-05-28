@@ -6,7 +6,7 @@ date:              2020-05-20 15:30:00 +0900
 tags:              Autohotkey Variable Operator
 category:          Autohotkey
 author:            charllossDev
-cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
+cover:             /assets/background/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true
 redirect_from:     "/AutoHotKey-Variable-Operator-Redirect/"
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
@@ -144,12 +144,12 @@ MsgBox, %a% + %b% = %c%
 MsgBox, %a% + %b% = % c "입니다." ;변수 %a% 방식과, % c 방식 혼용으로 에러
 ```
 
-![](assets/part1-2-variable-&-operator-56ca6340.png)
+![](./assets/part1-2-variable-&-operator-56ca6340.png)
 
 
 # Programming
-![](assets/part1-2-variable-&-operator-1ecfcc30.png)
+![](./assets/part1-2-variable-&-operator-1ecfcc30.png)
 
-![](assets/part1-2-variable-&-operator-0d6633a8.png)
+![](./assets/part1-2-variable-&-operator-0d6633a8.png)
 
-![](assets/part1-2-variable-&-operator-d38c1a5b.png)
+![](./assets/part1-2-variable-&-operator-d38c1a5b.png)

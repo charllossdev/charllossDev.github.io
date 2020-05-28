@@ -21,7 +21,7 @@ Task
 
 Complete the getLetter(s) function in the editor. It has one parameter: a string, $s$, consisting of lowercase English alphabetic letters (i.e., a through z). It must return A, B, C, or D depending on the following criteria:
 
-![](assets/2020-04-20-day-2-conditional-state-switch-70660944.png)
+![](./assets/2020-04-20-day-2-conditional-state-switch-70660944.png)
 
 **Hint**: You can get the letter at some index  in  using the syntax s[i] or s.charAt(i).
 

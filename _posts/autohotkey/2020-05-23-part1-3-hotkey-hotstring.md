@@ -6,7 +6,7 @@ date:              2020-05-23 14:30:00 +0900
 tags:              Autohotkey Hotkey HotString
 category:          Autohotkey
 author:            charllossDev
-cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
+cover:             /assets/background/body-of-water-near-coconut-trees-5120x2880.jpg
 published:         true
 redirect_from:     "/AutoHotKey-Hotkey-HotString-Redirect/"
 cover:             /assets/body-of-water-near-coconut-trees-5120x2880.jpg
@@ -20,7 +20,7 @@ math:			   false
 핫키와 핫스트링은 사용 시 스크립트가 끝나도 자동으로 종료되지 않는다.
 사용 후 종료하려면 작업 표시줄 트레이 아이콘을 우클릭하셔서 Exit 종료를 실행해주어야 한다.
 
-![](assets/part1-3-hotkey-hotstring-d20cc0e2.png)
+![](./assets/part1-3-hotkey-hotstring-d20cc0e2.png)
 
 
 # HotKey
@@ -55,7 +55,7 @@ MsgBox, 사과입력!
 # HotKey + HotString
 $Ctrl$ + $C$ $or$ $Shift$ + $F5$ 같이 단축키 조합도 사용이 가능하다.
 아래 표와 같이 사용을 할 수 있다.
-![](assets/part1-3-hotkey-hotstring-bb71126b.png)
+![](./assets/part1-3-hotkey-hotstring-bb71126b.png)
 
 ```autohotkey
 ^A::

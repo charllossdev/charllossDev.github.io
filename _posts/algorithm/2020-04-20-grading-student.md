@@ -69,7 +69,8 @@ For each , print the rounded grade on a new line.
 ```a
 
 # Dev
-```js
+
+```java
 import java.io.*;
 import java.math.*;
 import java.security.*;

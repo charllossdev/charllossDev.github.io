@@ -27,7 +27,7 @@ Complete the following functions in the editor below:
 The values returned by these functions are printed to stdout by locked stub code in the editor.
 
 ## Input Format
-![](/assets/javascript/2020-04-17-day-1-arithmetic-operators-8c3c12f2.png)
+![](./assets/2020-04-17-day-1-arithmetic-operators-8c3c12f2.png)
 
 ## Constrains
 

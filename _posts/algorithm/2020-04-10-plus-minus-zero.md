@@ -18,7 +18,7 @@ math:			   false
 
 # Plus Minus Zero
 
-![](assets/2020-04-10-plus-minus-zero-2f2b99f7.png)
+![](./assets/2020-04-10-plus-minus-zero-2f2b99f7.png)
 
 # Input
 ```
