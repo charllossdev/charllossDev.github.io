@@ -43,7 +43,7 @@ MsgBox, A Key Click
 사용 문법은 아래오 같다.
 * $::String::$
 
-즉 apple을 썻을 때 대화살자를 출력한다면,
+즉 apple을 썻을 때 대화상자를 출력한다면,
 
 ```autohotkey
 ::apple::
