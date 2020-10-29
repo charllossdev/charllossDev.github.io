@@ -8,7 +8,7 @@ category:          Algorithm
 author:            charllossDev
 cover:             /assets/mountain-alternative-cover.jpg
 published:         true
-redirect_from:     "/Euclidean-algorithm-Redirect/"
+redirect_from:     "/sock-merchant-redirect/"
 cover:             /assets/mountain-alternative-cover.jpg
 language:          EN
 comments:          true
